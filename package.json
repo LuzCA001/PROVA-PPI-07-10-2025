@@ -1,0 +1,16 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "PROVA PPI 2025 TERMO 2 - 07/10/2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Lucas Medeiros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
